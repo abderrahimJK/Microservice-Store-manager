@@ -13,7 +13,7 @@ The project is organized into several modules:
 - **Billing-service**: Manages billing and payment operations.
 
 ```
-├───Management_app
+├───Microservice-store-Manager
     ├───Config-service
     ├───gateway-service
     ├───customer-service
