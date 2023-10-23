@@ -1,7 +1,6 @@
 # Microservice App with SpringBoot, Consul, Vault, and Angular
 
-Welcome to the Microservice App project! This project is built using SpringBoot for the backend services, Consul for service discovery and configuration management, Vault for secret management, and Angular for the front-end application. This README.md file provides an overview of the project structure, setup instructions, and additional information to help you get started.
-
+Welcome to the Microservice App project! This project is built using SpringBoot for the backend services, Consul for service discovery and configuration management, Vault for secret management, and Angular for the front-end application.
 ## Project Structure
 
 The project is organized into several modules:
