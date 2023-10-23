@@ -63,7 +63,7 @@ Before you begin, ensure you have the following installed:
 
 3. **Frontend Setup**:
 
-    - Navigate to the Angular app folder (usually `client` or `frontend`).
+    - Navigate to the Angular app folder.
     - Install dependencies:
 
         ```bash
@@ -86,9 +86,9 @@ Before you begin, ensure you have the following installed:
 
 ## ToDo
 
-- **Security**: Ensure that proper security measures are implemented, including authentication and authorization mechanisms for both microservices and the Angular app.
-- **Error Handling**: Implement comprehensive error handling and logging mechanisms to identify and troubleshoot issues effectively.
-- **Scalability**: Design the microservices architecture to be scalable, allowing easy addition of new services or instances as the application grows.
-- **Documentation**: Maintain detailed documentation for API endpoints, data models, and overall system architecture for future reference and collaboration.
+- [x] **Security**: Ensure that proper security measures are implemented, including authentication and authorization mechanisms for both microservices and the Angular app.
+- [ ] **Error Handling**: Implement comprehensive error handling and logging mechanisms to identify and troubleshoot issues effectively.
+- [ ] **Scalability**: Design the microservices architecture to be scalable, allowing easy addition of new services or instances as the application grows.
+- [ ] **Documentation**: Maintain detailed documentation for API endpoints, data models, and overall system architecture for future reference and collaboration.
 
 Feel free to modify and enhance the project as needed. Happy coding!
